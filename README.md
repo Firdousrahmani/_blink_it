@@ -1,2 +1,1 @@
-# _blink_it
-Blinkit_dashboard
+# Blinkit_dashboard
